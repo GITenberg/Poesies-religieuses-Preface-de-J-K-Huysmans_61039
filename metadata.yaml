@@ -1,0 +1,47 @@
+_repo: Poesies-religieuses-Preface-de-J-K-Huysmans_61039
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Huysmans, J.-K. (Joris-Karl)
+    aliases:
+    - Huysmans, Charles-Marie-Georges
+    - Huysmans, Joris Karl
+    - Huysmans, Jaris-Karl
+    - Huysmans, Jorris-Karl
+    - Huysmans, Joris-Karl
+    birthdate: 1848
+    deathdate: 1907
+    gutenberg_agent_id: '4324'
+    url: http://www.gutenberg.org/2009/agents/4324
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Joris-Karl_Huysmans
+    - https://en.wikipedia.org/wiki/Joris-Karl_Huysmans
+creator:
+  author:
+    agent_name: Verlaine, Paul
+    alias: Verlaine, Paul Marie
+    birthdate: 1844
+    deathdate: 1896
+    gutenberg_agent_id: '1531'
+    url: http://www.gutenberg.org/2009/agents/1531
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Paul_Verlaine
+    - http://en.wikipedia.org/wiki/Paul_Verlaine
+description: ''
+gutenberg_bookshelf:
+- FR Poésie
+- FR Nouveautés
+gutenberg_issued: '2019-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61039'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Poésies religieuses
+
+  Préface de J. K. Huÿsmans'
+url: http://www.gutenberg.org/ebooks/61039
