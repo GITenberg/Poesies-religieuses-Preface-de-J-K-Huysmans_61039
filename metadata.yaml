@@ -1,5 +1,5 @@
 _repo: Poesies-religieuses-Preface-de-J-K-Huysmans_61039
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Huysmans, J.-K. (Joris-Karl)
@@ -16,6 +16,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Joris-Karl_Huysmans
     - https://en.wikipedia.org/wiki/Joris-Karl_Huysmans
+covers:
+- cover_type: archival
+  image_path: 61039-h/images/cover.jpg
 creator:
   author:
     agent_name: Verlaine, Paul
@@ -28,6 +31,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Paul_Verlaine
     - http://en.wikipedia.org/wiki/Paul_Verlaine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61039#Poesies-religieuses-Preface-de-J-K-Huysmans
 gutenberg_bookshelf:
 - FR Poésie
 - FR Nouveautés
